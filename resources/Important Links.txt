@@ -1,0 +1,5 @@
+Android Connect Google Collab:
+https://stackoverflow.com/questions/59271057/connect-android-studio-with-google-colab-code
+
+First Order Motion:
+https://github.com/AliaksandrSiarohin/first-order-model
